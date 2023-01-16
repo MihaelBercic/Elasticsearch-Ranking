@@ -8,10 +8,8 @@ import javax.swing.*;
 public class Comparison extends JFrame {
     JTextField    textField1;
     JList<String> list1;
-    JList<String> list2;
     JPanel        mainPanel;
     JLabel        esLabel;
-    JLabel        sqLabel;
 
 
 }
